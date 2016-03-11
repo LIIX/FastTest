@@ -16,8 +16,8 @@ namespace ConsoleApplication1
             foreach (var elem in list)
                 Console.WriteLine(elem);
             Console.WriteLine(demovingShift(list, 1));
-            Console.WriteLine("ny kak ono?");
             Console.WriteLine("Voobshe normas");
+            Console.WriteLine("chto za stroka vishe?");
             Console.ReadKey();
         }
 
