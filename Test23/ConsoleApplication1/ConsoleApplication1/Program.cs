@@ -17,6 +17,7 @@ namespace ConsoleApplication1
                 Console.WriteLine(elem);
             Console.WriteLine(demovingShift(list, 1));
             Console.WriteLine("ny kak ono?");
+            Console.WriteLine("Voobshe normas");
             Console.ReadKey();
         }
 
