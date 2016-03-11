@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("vvedite stroky, no tolko odny");
+            Console.WriteLine("vvedite stroky");
             string str = Console.ReadLine();
             var list = movingShift(str, 1);
             foreach (var elem in list)
